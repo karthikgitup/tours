@@ -1,0 +1,15 @@
+.nav-cont{
+   
+    width: 80%;
+    margin: auto;
+}
+.nav-link{
+    font-weight: 700;
+    font-size: 16px;
+}
+.navbar-brand{
+    font-weight: 700;
+}
+.navbar{
+    background-color:rgb(191, 191, 191);
+}
